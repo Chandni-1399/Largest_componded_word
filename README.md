@@ -10,7 +10,8 @@ This program essentially searches for the longest and the second longest compoun
 2.Then, go to  LongestCompoundWord file,execute the code.
 2.As there are two input files ,change name accordingly.
 # Output generated:
-1.Longest Compound Word: ethylenediaminetetraacetates
+1.Longest Compound Word: ethylenediaminetetraacetates,
   Second Longest Compound Word: electroencephalographically
-2.Longest Compound Word: ratcatdogcat
+  
+2.Longest Compound Word: ratcatdogcat,
   Second Longest Compound Word: catsdogcats 
